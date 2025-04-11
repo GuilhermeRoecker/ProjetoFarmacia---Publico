@@ -51,8 +51,20 @@ Sistema completo para gestão de farmácias de manipulação, oferecendo control
 - Relatórios financeiros com faturamento diário, semanal e mensal.
 
 ## 🖼️ Imagens do Sistema
+### *Tela de login*
 
-> *Inclua aqui prints ilustrativos das principais telas do sistema, como: cadastro de paciente, tela de pedido, relatório financeiro, etc.*
+![image](https://github.com/user-attachments/assets/a2124df7-78cd-407c-98c5-87ee7efe75ee)
+
+### *Tela inicial*
+- No futuro irei implementar cards que irão trazer informações relevantes para o usuario (Atendimento em aberto, aviso de controle de estoque, pedidos em atraso e etc).
+
+![image](https://github.com/user-attachments/assets/7f5056fb-78b2-4bb8-980f-cf07f0c2e428)
+
+### Gestão de pacientes
+
+![image](https://github.com/user-attachments/assets/68378b59-3dda-4306-8658-d3f614005b6d)
+![image](https://github.com/user-attachments/assets/a8d7d3ef-6b1f-4bd7-a666-3d2deaf97a39)
+
 
 ---
 
